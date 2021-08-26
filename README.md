@@ -17,6 +17,6 @@ I show my expereince creating visulizations and data wrangling in R
 
 
 
-Project 1 - 
+Project 1 - Linear_Reg.r
 In this project, I perform a simple linear regression formula in R
 
