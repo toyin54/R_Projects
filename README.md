@@ -1,14 +1,11 @@
-# R_Proejcts
 
 
-# Data Science
-Data Science-Projects:
+## R-Projects:
 
 This repository is you will find projects where i display my expereince using RStudio. In general, i want to show my familiarity with the R language
 ##Contents
 
 <ul>
-  <li><b>Python</b>:Usin Python to run Classification models and create Visulizations </li>
   <li><b>RWebScraping</b>:</li>
   <li><b>R_Linear Regression</b>:</li>
 </ul>
